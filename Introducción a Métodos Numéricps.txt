@@ -1,0 +1,3 @@
+** Introducción
+
+Los métodos numéricos son técnicas matemáticas que se usan para resolver problemas numéricos. Se basan en operaciones aritméticas para encontrar soluciones aproximadas a problemas complejos. 
